@@ -1,5 +1,5 @@
-![image](https://github.com/DEVESHJUYAL/Linkedin_Clone_React_JS/assets/91122298/a343edd5-ce7b-4f3a-9b8f-bbb6307d9db8)
-![image](https://github.com/DEVESHJUYAL/Linkedin_Clone_React_JS/assets/91122298/034a838c-497f-47e4-b27b-68c08e7ca5eb)
+![image](https://github.com/DEVESHJUYAL/Linkedin_Clone_ReactJS/assets/91122298/c918af55-9623-410e-97c6-4ab7568cde48)
+
 
 # Getting Started with Create React App
 
